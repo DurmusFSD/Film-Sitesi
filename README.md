@@ -7,5 +7,6 @@ HTML, JS ve Css ile bir film sitesinin tasarımı yapılmıştır
 HTML, CSS, JS kullanıldı
 
 <h2>Ekran görüntüsü</h2>
+
 ![](film.gif)
 
