@@ -1,13 +1,17 @@
-<h2>Film Sitesi</h2>
+# FilmSitesi
 
-HTML, JS ve Css ile bir film sitesinin tasarımı yapılmıştır
+Film Sitesi Yapımı - Html Css Web Site Yapımı 
 
-<h2>Kullanılan teknojiler</h2>
+## Kurulum
 
-HTML, CSS, JS kullanıldı
+1. Githubdan indiriniz...
+2. İndirdiginiz dosyayı zip halinden çıkarınız...
+3. Tarayıcı ile inceleyebilirsiniz...
 
-<h2>Ekran görüntüsü</h2>
+## İletişim
+
+Sorularınız için bana [durmusozgul66@gmail.com] adresinden ulaşabilirsiniz.
+
+<h2> Proje Örnegi </h2>
 
 ![](film.gif)
-
-# Film-Sitesi
